@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tips-app-react/static/css/main.9c476414.chunk.css",
+    "main.js": "/tips-app-react/static/js/main.57a655d0.chunk.js",
+    "main.js.map": "/tips-app-react/static/js/main.57a655d0.chunk.js.map",
+    "runtime-main.js": "/tips-app-react/static/js/runtime-main.0036498b.js",
+    "runtime-main.js.map": "/tips-app-react/static/js/runtime-main.0036498b.js.map",
+    "static/js/2.1cfa60f4.chunk.js": "/tips-app-react/static/js/2.1cfa60f4.chunk.js",
+    "static/js/2.1cfa60f4.chunk.js.map": "/tips-app-react/static/js/2.1cfa60f4.chunk.js.map",
+    "index.html": "/tips-app-react/index.html",
+    "precache-manifest.b9839a963f20760f8604564ea8b1980e.js": "/tips-app-react/precache-manifest.b9839a963f20760f8604564ea8b1980e.js",
+    "service-worker.js": "/tips-app-react/service-worker.js",
+    "static/css/main.9c476414.chunk.css.map": "/tips-app-react/static/css/main.9c476414.chunk.css.map",
+    "static/js/2.1cfa60f4.chunk.js.LICENSE.txt": "/tips-app-react/static/js/2.1cfa60f4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tips-app-react/static/media/Medgidia.1c12a53f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0036498b.js",
+    "static/js/2.1cfa60f4.chunk.js",
+    "static/css/main.9c476414.chunk.css",
+    "static/js/main.57a655d0.chunk.js"
+  ]
+}
